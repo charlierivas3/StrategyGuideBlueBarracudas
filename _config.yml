@@ -5,22 +5,22 @@
 # For technical reasons, this file is *NOT* reloaded automatically when you use
 # `jekyll serve`. If you change this file, please restart the server process.
 
-#theme                    : "minimal-mistakes-jekyll"
+theme                    : "minimal-mistakes-jekyll"
 minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Assasin Strategy Guide"
+title                    : "Minimal Mistakes"
 title_separator          : "-"
-subtitle                 : " "
+subtitle                 : "Development Test Site"
 name                     : "Your Name"
 description              : "Minimal Mistakes theme test."
 url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
-baseurl                  : "/home"
+baseurl                  : "/test"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
-logo                     : "/assets/images/Blue_Barracudas.jpg" # path of logo image to display in the masthead, e.g. "/assets/images/88x88.png"
-masthead_title           : "Blue Barracudas" # overrides the website title displayed in the masthead, use " " for no title
+logo                     : "/assets/images/apple-touch-icon.png" # path of logo image to display in the masthead, e.g. "/assets/images/88x88.png"
+masthead_title           : "Custom Title" # overrides the website title displayed in the masthead, use " " for no title
 # breadcrumbs            : false # true, false (default)
 words_per_minute         : 200
 comments:
@@ -35,7 +35,7 @@ comments:
     num_posts            : # 5 (default)
     colorscheme          : # "light" (default), "dark"
   utterances:
-    theme                : "github-light" #(default), "github-dark"
+    theme                : # "github-light" (default), "github-dark"
     issue_term           : # "pathname" (default)
   staticman:
     branch               : # "master"
@@ -82,23 +82,23 @@ analytics:
 
 # Site Author
 author:
-  name             : "BlueBarracudas"
-  avatar           : "/assets/images/Blue_Barracudas.jpg"
-  bio              : "This is our technical writing strategy guide"
-  location         : "ENG 131"
-  # links:
-  #   - label: "Your Website"
-  #     icon: "fas fa-fw fa-link"
-  #     url: "https://your-site.com"
-  #   - label: "Twitter"
-  #     icon: "fab fa-fw fa-twitter-square"
-  #     url: "https://twitter.com/"
-  #   - label: "GitHub"
-  #     icon: "fab fa-fw fa-github"
-  #     url: "https://github.com/"
-  #   - label: "Instagram"
-  #     icon: "fab fa-fw fa-instagram"
-  #     url: "https://instagram.com/"
+  name             : "Your Name"
+  avatar           : "/assets/images/bio-photo.jpg"
+  bio              : "I am an **amazing** person."
+  location         : "Somewhere"
+  links:
+    - label: "Your Website"
+      icon: "fas fa-fw fa-link"
+      url: "https://your-site.com"
+    - label: "Twitter"
+      icon: "fab fa-fw fa-twitter-square"
+      url: "https://twitter.com/"
+    - label: "GitHub"
+      icon: "fab fa-fw fa-github"
+      url: "https://github.com/"
+    - label: "Instagram"
+      icon: "fab fa-fw fa-instagram"
+      url: "https://instagram.com/"
 
 
 # Site Footer
