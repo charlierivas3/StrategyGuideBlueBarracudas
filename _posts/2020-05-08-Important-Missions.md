@@ -1,13 +1,7 @@
 ---
 title: "Important Missions"
 header:
-  video:
-    id: XsxDH4HcOWA
-    provider: youtube
-categories:
-  - Layout
-  - Uncategorized
-tags:
-  - video
-  - layout
+  overlay_image: /assets/images/snowCastle.jpg
+
 ---
+{% include video id="WHIi9mGQwVY" provider="youtube" %}
