@@ -4,7 +4,7 @@ header:
   image: /assets/images/Forest.jpg
   og_image: /assets/images/Forest.jpg
 
-  caption: "Photo credit: [**Unsplash**](https://unsplash.com)"
+  caption: "Photo credit: [**Photo by Sergei Akulich on Unsplash**](https://unsplash.com)"
 ---
 
 {% include video id="jlIAmN9epmU" provider="youtube" %}

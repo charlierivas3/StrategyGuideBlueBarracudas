@@ -4,6 +4,9 @@ title: "Important Missions"
 header:
   image: /assets/images/snowCastle.jpg
   og_image: /assets/images/snowCastle.jpg
+
+  caption: "Photo credit: [**Photo by Caleb Stokes on Unsplash**](https://unsplash.com)"
+
 ---
 
 
