@@ -19,7 +19,7 @@ The sneak skill allows you to be harder to detect when crouched. Once you’re a
 ![transparent black overlay]({{ '/assets/images/Cat Guy - Traits Sneak.jpg' | relative_url }})
 
 #### Archery: 
-The archery skill allows you to do more damage with your bows. You also can unlock the perk Eagle Eye, which allows you to zoom in when aiming. Add Archery Video 
+The archery skill allows you to do more damage with your bows. You also can unlock the perk Eagle Eye, which allows you to zoom in when aiming.
 
 #### One-Handed: 
 The One-Handed skill allows you to do more damage with one-handed weapons. These weapons are: daggers, maces, swords, and war axes. Once you get to a high enough level with this skill, you can unlock the Savage Strike perk. This perk lets your standing power attacks do 25% more damage, with a chance to decapitate your enemies.  
