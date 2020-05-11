@@ -13,9 +13,12 @@ header:
 
 #### Daggers: 
 The best dagger you can get is called the Blade of Woe, and you will get this by fully completing The Dark Brotherhood questline. 
-Add dagger picture
+![transparent black overlay]({{ '/assets/images/Blade of Woe - Weapons Daggers.jpg' | relative_url }})
 
 #### Bows: 
 A great bow you can get relatively early on is called the Glass Bow.
  Once you hit level 27, this will be available to buy from merchants.
  One of the best bows you can get requires you to be a vampire in the Dawnguard DLC: At the very end of the quest line you will get a mission called Touching the Sky. Upon completing this you will receive Auriel’s Bow. This bow has a special ability where if you use Sunhallowed Arrows, which you will receive at the end of Touching the Sky, they blow up on impact and do sun damage to your enemies. Auriel’s Bow also does triple damage to the undead.
+![transparent black overlay]({{ '/assets/images/Auriels Bow - Weapons Bows.jpg' | relative_url }})
+
+![transparent black overlay]({{ '/assets/images/Glass Bow - Weapons Bows.jpg' | relative_url }})

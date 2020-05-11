@@ -15,7 +15,8 @@ On top of being able to upgrade these three options, you will be given the oppor
 
 #### Sneak: 
 The sneak skill allows you to be harder to detect when crouched. Once you’re a high enough level in this skill you can unlock the Assassin's Blade perk. This perk allows you to do 15x damage to enemies while sneaking when you’re equipped with a one-handed weapon.
-Add cat guy picture
+
+![transparent black overlay]({{ '/assets/images/Cat Guy - Traits Sneak.jpg' | relative_url }})
 
 #### Archery: 
 The archery skill allows you to do more damage with your bows. You also can unlock the perk Eagle Eye, which allows you to zoom in when aiming. Add Archery Video 

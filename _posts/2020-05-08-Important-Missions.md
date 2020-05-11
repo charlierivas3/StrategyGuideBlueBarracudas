@@ -41,6 +41,6 @@ header:
 12) One of the most important pieces of armor you’ll want to pick up is the Shrouded Hand Wraps. These allow your one-handed sneak attacks to do double damage. That coupled with the Assassin’s Blade perk will allow you to do 30x sneak damage with daggers.
 
 
-# TODO add hand wraps pictures
+![transparent black overlay]({{ '/assets/images/Handwraps - Important Bottom.jpg' | relative_url }})
 
 Another important quest line requires you to have the Dawnguard Downloadable Content (DLC). DLC is an additional patch file that can be added to the game from the internet. Think of DLC as adding additional clothing in your closet. You will always have it in the closet once it is “installed” and now you have more adventures to choose from. With this DLC, you will be able to join the vampire hunting Dawnguard, or become a vampire yourself. It is recommended to become a vampire if making an assassin build as vampires get +25% sneak.
